@@ -3,3 +3,4 @@ Aulia Resolusi
 -membuat akun 
 -membuat projek yang ditentukan
 -mendiskusikan kepada guru
+-memperbaiki yang salah
